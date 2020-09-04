@@ -40,7 +40,7 @@
     "fuse.js": "^3.3.0",
     "jquery": "3.3.1",
     "json2csv": "^4.3.3",
-    "mongodb": "^2.2.5",
+    "mongodb": "^3.1.13",
     "mongoose": "^4.5.9",
     "nconf": "^0.10.0"
   },
