@@ -41,7 +41,7 @@
     "jquery": "3.3.1",
     "json2csv": "^4.3.3",
     "mongodb": "^2.2.5",
-    "mongoose": "^4.5.9",
+    "mongoose": "^4.13.21",
     "nconf": "^0.10.0"
   },
   "devDependencies": {
