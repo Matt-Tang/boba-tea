@@ -49,7 +49,7 @@
     "mocha": "^3.0.2",
     "nodemon": "^1.18.9",
     "supertest": "^2.0.0",
-    "browser-sync": "2.26.3",
+    "browser-sync": "2.27.10",
     "gulp": "4.0.0",
     "gulp-autoprefixer": "6.0.0",
     "gulp-clean-css": "4.0.0",
