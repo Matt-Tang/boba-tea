@@ -41,12 +41,12 @@
     "jquery": "3.3.1",
     "json2csv": "^4.3.3",
     "mongodb": "^2.2.5",
-    "mongoose": "^4.5.9",
+    "mongoose": "^4.13.21",
     "nconf": "^0.10.0"
   },
   "devDependencies": {
     "expect": "^1.20.2",
-    "mocha": "^3.0.2",
+    "mocha": "^3.5.3",
     "nodemon": "^1.18.9",
     "supertest": "^2.0.0",
     "browser-sync": "2.26.3",
